@@ -4,7 +4,7 @@
 
  My major is **Computer Engineering** and I am studying **Computer Science** to be Backend Engineer.
  
- I'm making my project using **Node.js** and **React**. I am very interested in **Web Development** and **Data Engineering**.
+ I'm making my project using **Node.js** and **React**. I am interested in **Web Development** and **Data Engineering**.
 
 ### :purple_heart: Career
 
