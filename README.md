@@ -6,7 +6,7 @@
  
  I'm making my project using **Node.js** and **React**. I am interested in **Web Development** and **Data Engineering**.
 
-### :purple_heart: Career
+### Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
