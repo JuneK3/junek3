@@ -11,7 +11,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2018. 3 ~  | Computer Engineering | **Hongik University** |
-| **External activities** | 2020. 9 ~ 2021. 3 | Organize Algorithm Camp, Contest(SUAPC) | **ICPC Sinchon** |
+| **External activities** | 2020. 9 ~  | Organize Algorithm Camp, Contest(SUAPC) | **ICPC Sinchon** |
 <!--
 | **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. Software Engineering Lab** |
 | **Research activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea AI Lab** |
