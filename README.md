@@ -1,15 +1,17 @@
-👋  Hello My name is Kim Gyeong Geun(김경근) 
+👋  안녕하세요
 
- My major is **Computer Engineering** and I am studying **Computer Science** to be Backend Engineer.
+ 컴퓨터 공학을 전공하고 있는 대학생입니다. 백엔드 개발자를 목표로 공부하고 있습니다.
  
- I'm making my project using **Node.js** and **React**. I am interested in **Web Development** and **Data Engineering**.
+ 주로 **Node.js** 와 **React**로 개발하고 있고, 웹개발과 데이터 엔지니어링에 관심히 많습니다.
+ 
+ **Typescript** 도입을 고민하고 있고, **Spring**으로 백엔드 개발을 해보고 싶어서 **Java**를 배우고 있습니다.
 
 ### Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2018. 3 ~  | Computer Engineering | **Hongik University** |
-| **External activities** | 2020. 9 ~  | Organize Algorithm Camp, Contest(SUAPC) | **ICPC Sinchon** |
+| **External activities** | 2020. 9 ~ 2021. 3 | Organize Algorithm Camp, Contest(SUAPC) | **ICPC Sinchon** |
 <!--
 | **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. Software Engineering Lab** |
 | **Research activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea AI Lab** |
